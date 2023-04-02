@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLP_App", "NLP_App.csproj", "{279798D8-50D2-4486-B436-D97A798C8DAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{279798D8-50D2-4486-B436-D97A798C8DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279798D8-50D2-4486-B436-D97A798C8DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279798D8-50D2-4486-B436-D97A798C8DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279798D8-50D2-4486-B436-D97A798C8DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2A2C211-3E94-492B-A30E-3E412A8BF327}
+	EndGlobalSection
+EndGlobal
