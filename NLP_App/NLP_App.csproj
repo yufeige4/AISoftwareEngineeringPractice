@@ -9,6 +9,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Baidu.AI" Version="4.15.12" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="AipSdk">
       <HintPath>..\aip-csharp-sdk-4.15.12\net45\AipSdk.dll</HintPath>
     </Reference>
